@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monsters-modolex/static/css/main.491e8e8e.css",
+    "main.js": "/monsters-modolex/static/js/main.8466a5a6.js",
+    "static/js/787.2933e231.chunk.js": "/monsters-modolex/static/js/787.2933e231.chunk.js",
+    "index.html": "/monsters-modolex/index.html",
+    "main.491e8e8e.css.map": "/monsters-modolex/static/css/main.491e8e8e.css.map",
+    "main.8466a5a6.js.map": "/monsters-modolex/static/js/main.8466a5a6.js.map",
+    "787.2933e231.chunk.js.map": "/monsters-modolex/static/js/787.2933e231.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.491e8e8e.css",
+    "static/js/main.8466a5a6.js"
+  ]
+}
